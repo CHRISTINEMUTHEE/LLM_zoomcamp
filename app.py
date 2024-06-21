@@ -1,4 +1,5 @@
 import streamlit as st
+from 
 
 def qa_bot(prompt):
     import time
@@ -21,3 +22,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+#TODO: have a new layout on streamlit with additonal features
+#TODO: trouble shoot why qa_bot was not working
+#TODO: build a rag.py to be called by app.py
