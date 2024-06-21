@@ -16,6 +16,7 @@ def main():
     if submit_button:
         response_placeholder.markdown("Loading...")
         response = qa_bot(prompt)
+        response_placeholder.markdown("The answer is ..")
         response_placeholder.markdown(response)
 
 if __name__ == "__main__":
