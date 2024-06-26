@@ -1,6 +1,7 @@
 # LLM_zoomcamp
 This is a Zoomcamp that will teach dealing with LLMS from an operation level.
 
+<<<<<<< HEAD
 # Module 1: Chat with Your Own Data : Introduction to the LLM Zoomcamp.
 
 ## Steps to set this up with Code Spaces.
@@ -17,3 +18,7 @@ Alternatively you can click on the options on the top right menu of your code sp
 **Step3** - If you need to see all files from the Module, you can clone the [Introduction to the LLM Zoomcamp] (https://github.com/alexeygrigorev/llm-rag-workshop) repository and follow the tutorial posted on [You tube] (https://www.youtube.com/watch?v=q-p36Ak6YI8). You can also choose NOT to clone the repository and follow the tutorial with your own files.
 
 You are all set up !! Happy coding. :wink:😉😉
+=======
+Steps to set this up with Code Spaces.
+**Step1** - 
+>>>>>>> fbe255928d57cc4458dca4af83130b70cea001f2
