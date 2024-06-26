@@ -19,6 +19,3 @@ Alternatively you can click on the options on the top right menu of your code sp
 
 You are all set up !! Happy coding. :wink:😉😉
 =======
-Steps to set this up with Code Spaces.
-**Step1** - 
->>>>>>> fbe255928d57cc4458dca4af83130b70cea001f2
