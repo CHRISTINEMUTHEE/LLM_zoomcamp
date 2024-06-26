@@ -1,1 +1,7 @@
+# API key
 .envrc
+# Notebook checkpoints
+.ipynb_checkpoints
+# Virtual environment
+Pipfile.lock
+Pipfile 
