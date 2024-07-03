@@ -1,0 +1,5 @@
+Docker compose for Olama and Elastic search
+Run OLLma within Docker
+Run elastic search with docker
+# Ensure elastic search is initialized with its port
+Run both Ollama and Elastic search via docker..
