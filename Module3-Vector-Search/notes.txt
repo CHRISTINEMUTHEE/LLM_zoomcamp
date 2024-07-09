@@ -1,0 +1,9 @@
+To run elastic search on docker,I chose to work with a docker compose file which sets up a single node elastic search instance using Docker.
+# Services defines the services to be run by Docker compose.
+Image used: docker.elastic.co/elasticsearch/elasticsearch:7.10.1 # this is the image version
+Container name: elasticsearch
+environment: Lets us define the environmental variables for the Container
+ports: Maps container ports to the host machine
+9200:9200 Maps port 9200 of the container (used by elastic search for HTTP API) to port 9200 on the host machine
+9300:9300: Maps port 9300 of the container(used by Elasticsearch for internal node to node communication) to 9300 on the machine
+Volume:lets us mount a volume/drive to persist Elastic search data
